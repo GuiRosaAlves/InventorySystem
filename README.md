@@ -10,6 +10,10 @@ This Unity project serves as a demonstration of a simple and versatile 2D invent
 - **Resolution Support:** The inventory system has been designed to adapt to most 16:9 resolutions, ensuring a consistent and responsive user experience across different screen sizes.
 
 - **Add Items to Inventory:** You can easily add items to the inventory by clicking the "Add Random Item" button. Observe how items are organized and managed in the inventory grid.
+  
+- **Swap Items:** To further manage your inventory, you can swap items between slots. Simply drag an item from one slot to another to perform the swap.
+
+- **Split Stacks of Items:** You have the option to split stacks of items in the inventory. Use the middle mouse button to split a stack in half, or use the right mouse button to specify a custom split quantity.
 
 - **Open and Close Inventory:** The inventory can be accessed and closed using the "Open/Close" button. Experience the smooth and intuitive user interface for managing your items.
 
@@ -31,7 +35,11 @@ This Unity project serves as a demonstration of a simple and versatile 2D invent
 
 4. Play the scene and utilize the "Add Random Item" button to add items to your inventory.
 
-5. Use the "Open/Close" button to manage the visibility of the inventory panel.
+5. To swap items, click and drag an item from one slot to another in the inventory grid.
+
+6. To split stacks of items, use the middle mouse button to split a stack in half or the right mouse button to specify a custom split quantity.
+
+7. Use the "Open/Close" button to manage the visibility of the inventory panel.
 
 ## GitHub Pages
 
