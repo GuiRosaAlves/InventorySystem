@@ -19,7 +19,7 @@ This Unity project serves as a demonstration of a simple and versatile 2D invent
 
 ## Preview
 
-![Inventory System Demo](link_to_preview.gif)
+![Inventory System Demo](screenshot_1.png)
 
 ## How to Use
 
@@ -35,11 +35,18 @@ This Unity project serves as a demonstration of a simple and versatile 2D invent
 
 ## GitHub Pages
 
-The project is hosted on GitHub Pages, allowing you to access a live demo of the inventory system. Visit the [Unity 2D Inventory System Demo](https://your-username.github.io/Unity2D-Inventory-System-Demo) to experience the functionality firsthand.
+The project is hosted on GitHub Pages, allowing you to access a live demo of the inventory system. Visit the [Unity 2D Inventory System Demo](https://guirosaalves.github.io/InventorySystem) to experience the functionality firsthand.
 
 ## Latest Release
 
-For the most stable version of the project, check out the [latest release](https://github.com/your-username/Unity2D-Inventory-System-Demo/releases/latest).
+For the most stable version of the project, check out the [latest release](https://github.com/GuiRosaAlves/InventorySystem/releases/latest).
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out to us:
+
+- Email: [guilhermerosaalves@gmail.com](mailto:guilhermerosaalves@gmail.com)
+- Twitter: [GuiRosaAlves](https://www.linkedin.com/in/guirosaalves/)
 
 ## Dependencies
 
@@ -52,7 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Special thanks to the Unity community for their invaluable resources and tutorials on inventory system implementation.
-
----
-
-Feel free to provide more context or specific details, and don't forget to replace "your-username" with your actual GitHub username when adding links. The above README provides an overview of your Unity 2D inventory system project, its features, how to use it, and additional information to help users and potential contributors understand your work.
