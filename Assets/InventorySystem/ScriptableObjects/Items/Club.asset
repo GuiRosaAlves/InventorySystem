@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3666b422f00ad31448fc09a6b4cb0ff5, type: 3}
+  m_Name: Club
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: e586ead65f4bdfe488c21ce83e2aff88, type: 3}
+  stackable: 0
